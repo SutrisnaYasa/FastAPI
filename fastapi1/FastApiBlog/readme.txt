@@ -6,3 +6,6 @@ python3 -m venv blog-env
 
 # Mengaktifkan virtual environment
 source blog-env/bin/activate
+
+# Menjalankan project
+uvicorn main:app --reload 
