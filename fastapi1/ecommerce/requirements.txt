@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+tortoise-orm
+passlib[bcrypt]
+fastapi-mail
+python-dotenv
+pyjwt
+python-dotenv
