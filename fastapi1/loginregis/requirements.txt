@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic
+pip install passlib
+pip install email_validator
+pip install python-multipart
+pip install python-jose

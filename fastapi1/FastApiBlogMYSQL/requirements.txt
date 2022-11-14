@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-sqlalchemy
-sqlalchemy_utils
+python-jose
+passlib
+python-multipart
